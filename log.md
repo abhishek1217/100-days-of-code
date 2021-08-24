@@ -6,12 +6,8 @@
 
 **Thoughts:** I will make sure I stick to this plan, and make some progress in my journey of learning programming.
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 1: August 24, 2021
 
-##### (delete me or comment me out)
+**Today's Progress**: Started learning Python, learnt how to print, take inputs from user, strings, commenting, variables, different errors.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: Finally started my 100DaysOFCode journey, will make sure I don't stop. Feels good to keep a log like this.
