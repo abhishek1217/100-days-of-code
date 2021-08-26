@@ -20,6 +20,6 @@
 
 ### Day 3: August 26, 2021
 
-**Today's Progress**: Today I coded for almost 2 and half hours, it was all basic control statements imvolving code but a lot of logic was involved and it was fun coming up with the solutions. Learnt how important indentation is in Python, learnt a lot about leap years, count(), lower(), and learnt how easy it is to compare strings in Python.
+**Today's Progress**: Today I coded for almost 2 and half hours, it involved basic control statements, but a tough logic implementation was also a part, so it was fun coming up with the solutions. Learnt how important indentation is in Python, learnt a lot about leap years, count(), lower(), there's a website to copy paste readymade ASCII animations which can really come in handy, and learnt how easy it is to compare strings in Python.
 
-**Thoughts**: I had severe headache, but I didn't wanna put a break to this 100DaysOfCode Challenge that I have taken up, so I started coding, soon I was enjoying it and the headache just went away. It may not seem like I love coding as much as how other programmers do, but I do have some sort of inclination towards it, and I shouldnt doubt myself too much. Just stick to the task in hand, finish this 100daysofcode course and make progress. 
+**Thoughts**: I had severe headache, but I didn't wanna put a break to this 100DaysOfCode Challenge that I have taken up, so I started coding, soon I was enjoying it and the headache just went away. I may not be as good as other programmers, but I do have some sort of inclination towards coding, and I shouldnt doubt myself too much. Just stick to the task in hand, finish this 100daysofcode course and make progress. 
