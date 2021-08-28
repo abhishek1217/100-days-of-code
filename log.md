@@ -29,3 +29,9 @@
 **Today's Progress**: Learnt about lists and round module in Python, learnt how strings can be made into a list of different types, coded a rock paper scissors game.
 
 **Thoughts**: There's no need to memorise everything in Python, just read through the documentation of the module you are using, and just remember what that module is capable of. Don't rush into start coding a given problem, write the soution in a paper, come up with all possible test cases and then start coding the program.
+
+### Day 5: August 28, 2021
+
+**Today's Progress**: Learnt a lot about loops, for loop to be specific, learnt more about the range funtion, learnt how to convert a list to a string by using a for loop, today's project was Password Generator.
+
+**Thoughts**: After coding the easy part of Password Generator, I came up with a solution for the hard part, but thought to myself that there may be another method to solve it. I kept thinking about it, but then in the end it turned out that the solution I came up with at first, was the appropriate one and there wasn't another way to do it. So stop thinking that solution is wrong, if you have got the right output, then you have done it right. You gotta think of ways to optimise the code, not change the whole code.
