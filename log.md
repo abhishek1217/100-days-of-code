@@ -2,7 +2,7 @@
 
 ### Day 0: August 9, 2021
 
-**Today's Progress**: Learned about 100DaysOFCode. Gonna start coding everyday for an hour.
+**Today's Progress**: Came across 100DaysOFCode. Gonna start coding everyday for an hour.
 
 **Thoughts:** I will make sure I stick to this plan, and make some progress in my journey of learning programming.
 
