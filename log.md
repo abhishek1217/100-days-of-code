@@ -35,3 +35,9 @@
 **Today's Progress**: Learnt a lot about loops, for loop to be specific, learnt more about the range funtion, learnt how to convert a list to a string by using a for loop, today's project was Password Generator.
 
 **Thoughts**: After coding the easy part of Password Generator, I came up with a solution for the hard part, but thought to myself that there may be another method to solve it. I kept thinking about it, but then in the end it turned out that the solution I came up with at first, was the appropriate one and there wasn't another way to do it. So stop thinking that solution is wrong, if you have got the right output, then you have done it right. You gotta think of ways to optimise the code, not change the whole code.
+
+### Day 6,7: September 21, 2021
+
+**Today's Progress**: Learnt  functions, more about loops, modules, and much more. Always wanted to make a Hangman project, and got it done today.
+
+**Thoughts**: Could have completed a minimum of 20 days of code by now, but like always, I got lazy and didnt continue to watch daily lessons. I will make sure I will never repeat this again and complete this udemy lesson by December 20th.
